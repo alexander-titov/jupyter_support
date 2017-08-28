@@ -1,6 +1,9 @@
 # Intro
 The repository contains scripts and notebooks implementing common functionality for [Jupyter](http://jupyter.org/) notebooks like hiding row code cells or an open file dialog.
 
+# Features
+## <code>hide_code_cells</code> module
+__In progress...__
 
 # Installation
 There are two modes of using the repository:
@@ -52,7 +55,3 @@ import os
 os.environ['http_proxy'] =  "http_proxy_url:port" 
 os.environ['https_proxy'] = "https_proxy_url:port"
 ```
-
-# Modules
-## <code>hide_code_cells</code>
-__In progress...__
